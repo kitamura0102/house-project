@@ -1,7 +1,8 @@
 import { useState } from 'react'
 import Navbar from './Navbar.jsx'
 import './App.css'
-
+import React from 'react'
+import Search from './Search.jsx'
 function App() {
 
 
@@ -9,6 +10,7 @@ function App() {
     <>
       <div>
         <Navbar />
+        <Search />
       </div>
       
     </>
