@@ -12,7 +12,7 @@ export const propiedades = [
     zestimate: 498000,
     precioPorPieCuadrado: 406,
     HOA: null,
-    picture: "imagenRandom1"
+    picture: "imagenRandom1.jpg"
   },
   {
     precio: 625000,
@@ -27,7 +27,7 @@ export const propiedades = [
     zestimate: 620000,
     precioPorPieCuadrado: 390,
     HOA: 50,
-    picture: "imagenRandom2"
+    picture: "imagenRandom2.jpg"
   },
   {
     precio: 540000,
@@ -42,7 +42,7 @@ export const propiedades = [
     zestimate: 705000,
     precioPorPieCuadrado: 467,
     HOA: 40,
-    picture: "imagenRandom3"
+    picture: "imagenRandom3.jpg"
   },
   {
     precio: 455000,
@@ -57,7 +57,7 @@ export const propiedades = [
     zestimate: 475000,
     precioPorPieCuadrado: 410,
     HOA: 0,
-    picture: "imagenRandom4"
+    picture: "imagenRandom4.jpg"
   },
   {
     precio: 560000,
@@ -72,7 +72,7 @@ export const propiedades = [
     zestimate: 590000,
     precioPorPieCuadrado: 415,
     HOA: 50,
-    picture: "imagenRandom5"
+    picture: "imagenRandom5.jpg"
   },
   {
     precio: 620000,
@@ -87,7 +87,7 @@ export const propiedades = [
     zestimate: 605000,
     precioPorPieCuadrado: 420,
     HOA: 0,
-    picture: "imagenRandom6"
+    picture: "imagenRandom6.jpg"
   },
   {
     precio: 680000,
@@ -102,7 +102,7 @@ export const propiedades = [
     zestimate: 630000,
     precioPorPieCuadrado: 425,
     HOA: 50,
-    picture: "imagenRandom7"
+    picture: "imagenRandom7.jpg"
   },
   {
     precio: 740000,
@@ -117,7 +117,7 @@ export const propiedades = [
     zestimate: 645000,
     precioPorPieCuadrado: 430,
     HOA: 0,
-    picture: "imagenRandom8"
+    picture: "imagenRandom8.jpg"
   },
   {
     precio: 800000,
@@ -132,7 +132,7 @@ export const propiedades = [
     zestimate: 660000,
     precioPorPieCuadrado: 435,
     HOA: 50,
-    picture: "imagenRandom9"
+    picture: "imagenRandom9.jpg"
   },
   {
     precio: 860000,
@@ -147,7 +147,7 @@ export const propiedades = [
     zestimate: 675000,
     precioPorPieCuadrado: 440,
     HOA: 0,
-    picture: "imagenRandom10"
+    picture: "imagenRandom10.jpg"
   },
   {
     precio: 920000,
@@ -162,7 +162,7 @@ export const propiedades = [
     zestimate: 690000,
     precioPorPieCuadrado: 445,
     HOA: 50,
-    picture: "imagenRandom11"
+    picture: "imagenRandom11.jpg"
   },
   {
     precio: 980000,
@@ -177,7 +177,7 @@ export const propiedades = [
     zestimate: 705000,
     precioPorPieCuadrado: 450,
     HOA: 0,
-    picture: "imagenRandom12"
+    picture: "imagenRandom12.jpg"
   },
   {
     precio: 1040000,
@@ -192,7 +192,7 @@ export const propiedades = [
     zestimate: 720000,
     precioPorPieCuadrado: 455,
     HOA: 50,
-    picture: "imagenRandom13"
+    picture: "imagenRandom13.jpg"
   },
   {
     precio: 1100000,
@@ -207,7 +207,7 @@ export const propiedades = [
     zestimate: 735000,
     precioPorPieCuadrado: 460,
     HOA: 0,
-    picture: "imagenRandom14"
+    picture: "imagenRandom14.jpg"
   },
   {
     precio: 1160000,
@@ -222,7 +222,7 @@ export const propiedades = [
     zestimate: 750000,
     precioPorPieCuadrado: 465,
     HOA: 50,
-    picture: "imagenRandom15"
+    picture: "imagenRandom15.jpg"
   },
   {
     precio: 1220000,
@@ -237,7 +237,7 @@ export const propiedades = [
     zestimate: 765000,
     precioPorPieCuadrado: 470,
     HOA: 0,
-    picture: "imagenRandom16"
+    picture: "imagenRandom16.jpg"
   },
   {
     precio: 1280000,
@@ -252,7 +252,7 @@ export const propiedades = [
     zestimate: 780000,
     precioPorPieCuadrado: 475,
     HOA: 50,
-    picture: "imagenRandom17"
+    picture: "imagenRandom17.jpg"
   },
   {
     precio: 1340000,
@@ -267,7 +267,7 @@ export const propiedades = [
     zestimate: 795000,
     precioPorPieCuadrado: 480,
     HOA: 0,
-    picture: "imagenRandom18"
+    picture: "imagenRandom18.jpg"
   },
   {
     precio: 1400000,
@@ -282,7 +282,7 @@ export const propiedades = [
     zestimate: 810000,
     precioPorPieCuadrado: 485,
     HOA: 50,
-    picture: "imagenRandom19"
+    picture: "imagenRandom19.jpg"
   },
   {
     precio: 1460000,
@@ -297,6 +297,6 @@ export const propiedades = [
     zestimate: 825000,
     precioPorPieCuadrado: 490,
     HOA: 0,
-    picture: "imagenRandom20"
+    picture: "imagenRandom20.jpg"
   }
 ];

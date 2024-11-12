@@ -47,7 +47,7 @@ margin: 0 auto;
 
 
 .search-bar{
-    height: 50vh;
+    height: 45vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -83,7 +83,7 @@ margin: 0 auto;
 .input-box{
     display: flex;
     width: 45%;
-justify-content: end;
+    justify-content: end;
 }
 .input-box button{
 
@@ -96,3 +96,4 @@ border: none;
 background-color: white;
 cursor: pointer;
 }
+
