@@ -6,6 +6,7 @@ import React from "react";
 import Search from "./Search.jsx";
 import Header from "./Header.jsx";
 import { propiedades } from "./assets/propiedades.js";
+import CardOption from "./CardOption.jsx";
 
 function App() {
   const cards = propiedades.map((item) => {
@@ -45,6 +46,7 @@ function App() {
         <Navbar />
         <Search />
         {header}
+        <CardOption />
       </div>
     </>
   );
