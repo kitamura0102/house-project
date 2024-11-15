@@ -1,8 +1,10 @@
 import React from "react";
 import logo from "./assets/z-logo-default-visual-refresh.svg"
-export default function Navbar() {
+import Checkbox from "./Checkbox";
+export default function Navbar() { 
   return (
     <nav>
+      <Checkbox />
       <ul>
         <li className="left-side-navbar">Buy</li>
         <li className="left-side-navbar">Rent</li>

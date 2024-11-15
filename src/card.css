@@ -1,11 +1,11 @@
 header {
   display: flex;
   flex-direction: column;
-  margin-top: 40px;
+  margin: 40px 0;
 }
 
 header a {
-  margin: 0 auto;
+  margin: 30px auto;
   text-decoration: none;
   font-weight: 600;
 }
@@ -16,7 +16,7 @@ header a {
   display: flex;
   flex-wrap: nowrap;
   gap: 20px;
-  overflow-x: auto;
+  overflow-x: hidden;
   width: 70%;
   margin: 0 auto;
   height: 330px;
@@ -74,7 +74,10 @@ header button {
 }
 
 /* Cards Options */
-
+.options-section{
+  background-color: rgb(247, 247, 247);
+  
+}
 .options {
   display: flex;
   justify-content: center;
@@ -90,11 +93,12 @@ header button {
   text-align: center;
   width: 395px;
   height: 486px;
-  margin: 40px 15px;
+  margin: 50px 15px;
   border-radius: 15px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 4px 15px;
   border: 1px solid rgb(205, 205, 211);
   cursor: pointer;
+  background-color: white;
 }
 .more-options{
     width: 84%;
@@ -134,4 +138,10 @@ header button {
   font-weight: 600;
   color: rgb(19, 79, 219);
   margin-top: 40px;
+}
+
+@media (width:800px) {
+  body{
+    background-color: red;
+  }
 }

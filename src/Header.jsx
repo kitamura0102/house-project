@@ -1,9 +1,11 @@
 import React from "react";
+
 export default function Header(props) {
 
     
   return (
     <div className="card">
+      
       <img src={`../src/assets/${props.item.picture}`} alt="" className="picture" />
       <p className="price">
         <strong>${props.item.precio.toLocaleString("en-EN")}.00</strong>
